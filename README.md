@@ -26,11 +26,11 @@ Fornecer insights sobre a percepção do público em relação à empresa, atrav
 ## &nbsp;Bibliotecas Python: 
 - Tweepy
 - Google.generativeai
+- Google.Colab
 - Pandas
 - Matplotlib
 - WordCloud
 - NLTK
-- re
 
 ## &nbsp;Autor:
 - Lucas Magoyel
