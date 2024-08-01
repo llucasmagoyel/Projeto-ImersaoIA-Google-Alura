@@ -8,6 +8,9 @@ Análise de Sentimentos no Twitter (X) com Gemini e Python.
 
 Este projeto utiliza a API do Gemini (Google), em conjunto com a API do Twitter (X), para realizar análise de sentimentos sobre uma determinada empresa nas redes sociais.
 
+Caio Cesar Martins Ferreira 01/08/2024
+Incluí essa linha para testar o pull request para o projeto principal
+
 <br>
 
 ## &nbsp;Objetivo:
